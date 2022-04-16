@@ -2,7 +2,7 @@
 Remove tracking tokens from URL
 
 * Facebook: `fbclid`
-* Google: `gclid`, `utm_source`, `utm_medium`, `utm_campaign`
+* Google: `gclid`, `gclsrc`, `utm_source`, `utm_medium`, `utm_campaign`
 
 把 Javascript 語法放到瀏覽器書籤，按一下書籤，就可以消除追蹤碼
 
