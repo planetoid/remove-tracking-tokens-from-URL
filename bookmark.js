@@ -12,7 +12,7 @@ javascript:(function(){
 	  
 	}
 
-	var parms = ['fbclid', 'gclid', 'utm_source', 'utm_medium', 'utm_campaign', 'utm_content', 'utm_term', 'gclid', 'gclsrc'];
+	var parms = ['fbclid', 'gclid', 'gclsrc', 'utm_source', 'utm_medium', 'utm_campaign', 'utm_content', 'utm_term'];
 	removeParameters(parms);
 	
 
